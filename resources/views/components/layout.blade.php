@@ -22,8 +22,9 @@
     		text-align: center;
     	}
     </style>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
 </head>
-<body>
+<body class="bg-gray-700 p-6 max-w-xl mx-auto">
 
     <nav>
         <a href="/">Home</a>
